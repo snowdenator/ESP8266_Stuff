@@ -2,9 +2,9 @@
 #include <Wire.h>
 
 char buffer[20];
-char* password = "snowden64";
-char* ssid     = "snowden";
-String MyNetworkSSID = "snowden"; // SSID you want to connect to Same as SSID
+char* password = "0113216200";
+char* ssid     = "LCC-WiFi";
+String MyNetworkSSID = "LCC-WiFi"; // SSID you want to connect to Same as SSID
 bool Fl_MyNetwork = false; // Used to flag specific network has been found
 bool Fl_NetworkUP = false; // Used to flag network connected and operational.
 
